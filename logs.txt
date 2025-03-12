@@ -1,0 +1,15 @@
+*   5e9ec73 (HEAD -> master, origin/master) Add feature to count tasks by priority
+|\
+| * 33f68b6 (origin/7-count-tasks-per-category, 7-count-tasks-per-category) Implement count tasks per category function
+* |   6b10cef Merge pull request #11 from velkovskistefan/4-sort-tasks-by-priority
+|\ \
+| * | c7e7f05 (origin/4-sort-tasks-by-priority, 4-sort-tasks-by-priority) Implement sorting tasks by priority function
+| |/
+* |   9435e02 Merge pull request #10 from velkovskistefan/1-remove-a-task-by-name
+|\ \
+| |/
+|/|
+| * 9647485 (origin/1-remove-a-task-by-name, 1-remove-a-task-by-name) Implement task function
+|/
+* effbfd9 Add files via upload
+* 8fc49d0 Initial commit
